@@ -1,0 +1,23 @@
+;=-=-=-= Copyright © 2018 eMarket =-=-=-=-=;
+;     GNU GENERAL PUBLIC LICENSE v.3.0     ;
+;   https://github.com/musicman3/eMarket   ;
+;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-;
+
+[all]
+modules_payment_cash_name = Tiền mặt
+modules_payment_cash_author = eMarket
+modules_payment_cash_version = 1.0
+
+[admin]
+
+;TITLE
+modules_payment_cash_admin_shipping_method_select = Phương thức giao hàng
+modules_payment_cash_admin_shipping_module_select = Modules giao hàng
+modules_payment_cash_admin_order_status_select = Trạng thái đơn hàng
+
+[catalog]
+
+;TITLE
+modules_payment_cash_catalog_complete_button = Hoàn tất
+modules_payment_cash_catalog_text = Đơn đặt hàng của bạn đã được chuẩn bị. Bạn có thể thanh toán bằng tiền mặt khi nhận được đơn hàng của mình. Hoàn tất giao dịch mua của bạn để đơn đặt hàng được chấp nhận. 
+modules_payment_cash_catalog_amount_to_pay = Số tiền cần thanh toán:

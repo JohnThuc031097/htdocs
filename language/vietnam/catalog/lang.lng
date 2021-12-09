@@ -1,0 +1,13 @@
+;=-=-=-= Copyright © 2018 eMarket =-=-=-=-=;
+;     GNU GENERAL PUBLIC LICENSE v.3.0     ;
+;   https://github.com/musicman3/eMarket   ;
+;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-;
+
+[vietnam]
+
+language_name = Vietnam
+language_code = vi-VN
+language_locale = vi-VN.UTF-8
+meta-language = vi
+currency_separator = ,
+currency_group_separator = " "

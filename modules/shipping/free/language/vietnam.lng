@@ -1,0 +1,21 @@
+;=-=-=-= Copyright © 2018 eMarket =-=-=-=-=;
+;     GNU GENERAL PUBLIC LICENSE v.3.0     ;
+;   https://github.com/musicman3/eMarket   ;
+;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-;
+
+[all]
+modules_shipping_free_name = Free shipping
+modules_shipping_free_author = eMarket
+modules_shipping_free_version = 1.0
+
+[admin]
+
+;TITLE
+modules_shipping_free_admin_shipping_zone = Khu vực giao hàng
+modules_shipping_free_admin_minimum_order_price = Mức giá tối thiểu đơn hàng 
+modules_shipping_free_admin_minimum_order_price_for_free_shipping = Mức giá tối thiểu đơn hàng được miễn phí giao hàng
+
+[catalog]
+
+;TITLE
+modules_shipping_free_catalog_test = Test

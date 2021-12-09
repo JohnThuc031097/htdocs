@@ -1,0 +1,35 @@
+;=-=-=-= Copyright © 2018 eMarket =-=-=-=-=;
+;     GNU GENERAL PUBLIC LICENSE v.3.0     ;
+;   https://github.com/musicman3/eMarket   ;
+;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-;
+
+[all]
+modules_tabs_reviews_name = Reviews
+modules_tabs_reviews_author = eMarket
+modules_tabs_reviews_version = 1.0
+
+[admin]
+
+;TITLE
+modules_tabs_reviews_admin_tabs_zone = Khu vực giao hàng
+modules_tabs_reviews_admin_minimum_order_price = Mức giá tối thiểu đơn hàng
+modules_tabs_reviews_admin_minimum_order_price_for_reviews_tabs = Mức giá tối thiểu đơn hàng được phép review
+modules_tabs_reviews_admin_publish = Công khai?
+modules_tabs_reviews_admin_confirm_publish = Công khai?
+modules_tabs_reviews_admin_product = Sản phẩm
+modules_tabs_reviews_admin_date_added = Ngày được thêm
+modules_tabs_reviews_admin_author = Tác giả
+modules_tabs_reviews_admin_rating = Xếp hạng
+
+[catalog]
+
+;TITLE
+modules_tabs_reviews_catalog_name = Reviews
+modules_tabs_reviews_catalog_your_rating = Xếp hạng của bạn:
+modules_tabs_reviews_catalog_write_review = Viết đánh giá ...
+modules_tabs_reviews_catalog_publish = Công khai
+modules_tabs_reviews_catalog_thanks = Cảm ơn bạn. Đánh giá của bạn đã được thêm vào cho sản phẩm này.
+modules_tabs_reviews_catalog_average_rating = Đánh giá trung bình:
+modules_tabs_reviews_catalog_cannot_post = Bạn không thể đánh giá cho mặt hàng này vì bạn chưa mua nó. 
+modules_tabs_reviews_catalog_moderation = Cảm ơn bạn. Đánh giá của bạn đã được gửi để kiểm duyệt.
+modules_tabs_reviews_catalog_button_show_more = Hiển thị thêm

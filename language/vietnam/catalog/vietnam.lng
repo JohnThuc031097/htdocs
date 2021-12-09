@@ -1,0 +1,255 @@
+;=-=-=-= Copyright © 2018 eMarket =-=-=-=-=;
+;     GNU GENERAL PUBLIC LICENSE v.3.0     ;
+;   https://github.com/musicman3/eMarket   ;
+;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-;
+
+[catalog]
+
+;TITLE
+title_catalog_index =  Cửa hàng Online
+title_login_index = Đăng nhập
+title_register_index = Đăng ký
+title_cart_index = Giỏ hàng
+title_recoverypass_index = Khôi phục mật khẩu
+title_address_book_index = Address Book
+title_success_index = Đơn hàng đã thanh toán
+title_orders_index = Đơn hàng của tôi
+title_my_account_index = Thông tin tài khoản
+title_checkout_index = Đơn hàng chờ thanh toán
+
+;INDEX
+index_text = eMarket Bootstrap 5 Demo
+
+;DEBUG
+debug_page_generation_time = Page generation time:
+debug_db_queries = DB queries:
+debug_sec = sec.
+debug_pcs = pcs.
+
+;MY ACCOUNT
+my_account_name = Thông tin tài khoản
+my_account_firstname = Firstname
+my_account_lastname = Lastname
+my_account_middlename = Middle name
+my_account_telephone = Phone
+my_account_password = New password
+my_account_confirm_password = Confirm password
+my_account_enter_your_firstname = Please enter your firstname
+my_account_enter_your_lastname = Please enter your lastname
+my_account_enter_your_middlename = Please enter your middle name
+my_account_enter_your_phone = Please enter your phone (example: +84122521819)
+my_account_enter_your_password = Please enter your new password
+my_account_confirm_your_password = Please confirm your new password
+my_account_password_check = Confirmation password error
+my_account_personal_details = Personal details
+my_account_details_password = Password details
+
+;LAYOUTS
+categories_name = Phân loại
+search_name = Tìm kiếm ...
+new_products_name = Các sản phẩm mới
+sale = Sale
+recommended = Recommended
+articles = Bài đăng
+my_account = Tài khoản
+
+;BUTTONS
+button_add = Add
+button_cancel = Cancel
+button_delete = Delete
+button_edit = Edit
+button_next = Next
+button_previous = Previous
+cancel = Cancel
+save = Save
+button-view-switch = View
+button-all-switch = All
+button-instock-switch = In stock
+confirm-no-switch = NO
+confirm-yes-switch = YES
+confirm-del = Delete?
+confirm-no = No
+confirm-yes = Yes
+with = Displaying 
+to = to
+of = of
+button_continue_shopping = Tiếp tục mua sắm
+button_proceed_to_checkout = Chuyển đến trang thanh toán
+
+;PAGES
+shopping_cart = Giỏ hàng
+сheckout_click = Buy in one click
+login_to_account = Tài khoản
+regular_customer = Khách hàng đã có tài khoản
+new_customer = Khách hàng mới
+sign_in = Đăng nhập
+continue = Tiếp tục
+default = Default
+default_set = Default Set
+password = Enter password
+confirm_password = Confirm password
+forgot_your_password = Quên mật khẩu?
+login_description = Bạn muốn đặt hàng, theo dõi, thanh toán đơn hàng trước tiên bạn cần phải có một tài khoản trên website chúng tôi.
+this_page_is_not_available = This page is not available!
+enter_a_new_password = Enter a new password
+e_mail = E-Mail
+
+;BREADCRUMB
+breadcrumb_home = Trang chủ
+breadcrumb_search = Tìm kiếm
+
+;PRODUCT
+product_manufacturer = Manufacturer:
+product_model = Model:
+product_weight = Weight:
+product_availability = Hiện trạng:
+product_in_stock_from = Chờ hàng
+product_in_stock = Còn hàng
+product_out_of_stock = Hết hàng
+product_dimension = Dimension (%s):
+product_dimension_length = L
+product_dimension_width = W
+product_dimension_height = H
+product_specification = Specification
+product_description = Description
+product_not_found = Product not found
+product_not_found_message = Xin lỗi. Sản phẩm này không tìm thấy
+
+;LISTING
+listing_no = Không có sản phẩm trong danh mục này.
+listing_no_search = Products not found
+listing_search = Kết quả tìm kiếm
+listing_sort_by_default = By default
+listing_sort_by_name = By name
+listing_sort_by_price_asc = Price (ascending)
+listing_sort_by_price_desc = Price (descending)
+listing_product_added_to_cart = Sản phẩm đã được thêm vào giỏ hàng của bạn thành công!
+listing_product = Product:
+listing_price = Price:
+listing_quantity = Quantity:
+listing_no_more_in_stock = Không còn hàng
+
+;ADDRESS BOOK
+my_address_book = Địa chỉ giao hàng
+address_book_country = Quốc gia
+address_book_region = Khu vực
+address_book_city = Thành phố
+address_book_zip = Postal code / ZIP
+address_book_shipping_address = Địa chỉ giao hàng
+address_book_city_placeholder = Enter name of your city
+address_book_zip_placeholder = Enter postal code
+address_book_address_placeholder = Enter shipping address
+
+;CART
+cart_shipping_address = Địa chỉ giao hàng
+cart_shipping_address_small = Please, enter your shipping address
+cart_shipping_method = Phương thức giao hàng
+cart_shipping_method_small = Please, enter your shipping method
+cart_payment_method = Phương thức thanh toán
+cart_payment_method_small = Please, enter your payment method
+cart_product = Product
+cart_price = Price
+cart_quantity = Quantity
+cart_amount = Amount
+cart_total = Total:
+cart_estimated_taxes = Thuế ước tính:
+cart_price_including_all_taxes = Tổng đơn giá sản phẩm bao gồm Thuế(VAT)
+cart_shopping_cart_empty = Giỏ hàng hiện tại trống
+cart_сheckout = Thanh toán
+cart_discount_card_number = Discount card number
+cart_discount_card_apply = Apply
+cart_shipping_is_not_available = Khu vực không khả dụng
+cart_payment_is_not_available = Phương thức thanh toán không khả dụng
+cart_shipping_is_not_available_and_min_price = . Min. order price:
+cart_shipping_price = Phí giao hàng:
+cart_subtotal = Sô lượng
+
+;CHECKOUT
+checkout_text = Đơn hàng đã được chuẩn bị
+
+;OTHER
+buy_now = Buy Now
+add_to_cart = Add to Cart
+action_completed_successfully = Action completed successfully!
+action_failed = Action failed!
+no_listing = No listing
+attention = ATTENTION!
+
+;MESSAGES
+messages_email_is_busy = This E-Mail is busy! Please enter another email.
+messages_registration_complete = Đăng ký thành công. Vui lòng kiểm tra hôp thư E-mail.
+messages_activation_complete = Kích hoạt thành công. Vui lòng đăng nhập lại tài khoản kiểm tra.
+messages_email_or_password_is_not_correct = E-mail hoặc mật khẩu không khớp!
+messages_recovery_password_complete = Thay đổi mật khẩu thành công. Vui lòng đăng nhập lại tài khoản.
+messages_recovery_password_failed = Password not changed! Your password has expired. Please re-request access recovery.
+messages_alert_name = eMarket message
+
+;NAVBAR
+navbar_pcs = pcs.
+navbar_languages = Ngôn ngữ
+navbar_currencies = Đơn vị tiền tê
+navbar_logout = Đăng xuất
+navbar_view_cart = Xem giỏ hàng
+
+;REGISTER
+register_password_check = Confirmation password error
+register_email_check = Please, enter correct E-Mail
+register_password_recovery = Password recovery
+register_password_recovery_message_success = Password recovery message sent to your E-Mail
+register_password_recovery_message_failed = Please, enter correct E-Mail
+register_problem_message = Khách hàng thân mến. Đã xảy ra lỗi. Vui lòng nhập thông tin chính xác và thử lại. Nếu bạn vẫn gặp vấn đề với việc đăng ký, vui lòng liên hệ với chúng tôi để giải quyết vấn đề này.
+register_complete_message = Khách hàng thân mến. Bạn vừa đăng ký trong cửa hàng trực tuyến của chúng tôi. Chúng tôi hy vọng rằng các giao dịch mua được thực hiện với chúng tôi sẽ thành công và mang lại lợi nhuận cho bạn. Để hoàn tất việc đăng ký, hãy kiểm tra E-Mail của bạn và xác nhận hoạt động đăng ký bằng cách nhấp vào liên kết trong thư.
+register_privacy_statement_agree = I have read and agreed to your <a href="%s" data-bs-toggle="modal" class="agree">privacy statement</a>.
+register_account = Đăng ký tài khoản
+register_personal_details = Personal details
+register_first_name = First Name
+register_last_name = Last Name
+register_e_mail = E-Mail
+register_telephone = Telephone (example: +12345678900)
+register_details_password = Password details
+register_privacy_policy_tittle = Privacy policy
+register_privacy_policy_text = Privacy policy text...
+
+;WELCOME
+welcome_name = Welcome %s!
+welcome_text = The default shopping cart comes with by Bootstrap 5 and Vanilla JS making it lighter, faster and responsive.
+welcome_guest = Guest
+
+;E-MAIL MESSAGES
+email_registration_subject = Registration in the online store eMarket!
+email_registration_message = Click the link below to let us know this is really your email and complete registration. <br><br><a href="%s" target="_blank">%s</a>
+email_recovery_password_subject = Account Access Recovery
+email_recovery_password_message = Click the link below to enter a new password to access your account. <br><br><a href="%s" target="_blank">%s</a>
+email_order_success_subject = Order #%s successfully completed (%s).
+email_order_success_message = Dear customer. Thank you for purchasing from eMarket. Your order #%s has been successfully completed. <br><br>Order status: %s. <br><br>Details of the order can be found in your personal account: <a href="%s" target="_blank">%s</a>
+
+;PROVIDERS
+providers_order_success = Order #%s successfully completed (%s).
+
+;ORDERS
+orders_book = Orders book
+orders_total = Total
+orders_status = Status
+orders_shipping = Shipping
+orders_client = Client
+orders_amount = Amount
+orders_quantity = Quantity
+orders_price = Price
+orders_product = Product
+orders_products = Products
+orders_transaction_history = Transaction history
+orders_status_history = Status history
+orders_description = Description
+orders_payment_method = Payment method
+orders_billing_address = Billing address
+orders_date_added = Date added
+orders_date_of_change = Date of change
+orders_number = Order No.
+orders_subtotal = Products subtotal
+orders_sticker = Sticker
+orders_estimated_taxes = Estimated Taxes:
+orders_price_including_all_taxes = Products subtotal is including all taxes
+
+;SUCCESS
+success_text = Order completed successfully
+success_message = Dear customer. Thank you for purchasing from eMarket. Your order has been successfully completed. <br><br>Details of the order can be found in your personal account.
